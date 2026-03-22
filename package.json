@@ -1,0 +1,8 @@
+{
+  "name": "stes-dashboard",
+  "version": "1.0.0",
+  "description": "Smart Traffic Enforcement System — Command Dashboard",
+  "scripts": {
+    "start": "npx serve public"
+  }
+}
